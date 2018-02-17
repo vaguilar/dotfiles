@@ -3,6 +3,7 @@ alias ..='cd ..'
 alias ll='ls -Glh --color=tty'
 alias bashrc='vim ~/.bashrc'
 alias vimrc='vim ~/.vimrc'
+alias ta='tmux a'
 
 # Git
 alias ga='git add'
